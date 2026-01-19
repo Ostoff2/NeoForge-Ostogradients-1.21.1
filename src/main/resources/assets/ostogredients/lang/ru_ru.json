@@ -1,3 +1,5 @@
 {
-  "item.ostogredients.incomplete_fluid_pipe": "Незаконченная жидкостная труба"
+  "item.ostogredients.incomplete_fluid_pipe": "Незаконченная жидкостная труба",
+
+  "creativetab.ostogredients.ostogredients": "Ostogredients"
 }

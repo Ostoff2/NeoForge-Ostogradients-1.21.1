@@ -1,3 +1,5 @@
 {
-  "item.ostogredients.incomplete_fluid_pipe": "Incomplete Fluid Pipe"
+  "item.ostogredients.incomplete_fluid_pipe": "Incomplete Fluid Pipe",
+
+  "creativetab.ostogredients.ostogredients": "Ostogredients"
 }
